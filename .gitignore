@@ -1,0 +1,6 @@
+test_groq.py
+.venv
+frontend/
+__pycache__/
+*.pyc
+.env

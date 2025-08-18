@@ -80,7 +80,7 @@ Authentication is handled using **Google OAuth 2.0**, and session state is maint
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/puneeth-hegde/Agentic-AI-Task-Automation-Bot
 cd ai_agent
 ```
 
